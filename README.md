@@ -1,3 +1,1 @@
-"# Jupyter-Graphic-Equalizer" 
-12345
-
+Graphic Equalizer
